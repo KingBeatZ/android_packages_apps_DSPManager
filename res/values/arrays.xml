@@ -81,27 +81,43 @@
   </string-array>
 
   <string-array name="compression_modes">
-    <item>Slight</item>
-    <item>Moderate</item>
-    <item>Extreme</item>
+      <item>Weak - LOL</item>
+      <item>A Bit Better</item>
+      <item>Normal - Boring</item>
+      <item>Strong - Ahh Got Balls</item>
+      <item>Stronger - There we go</item>
+      <item>Strongest - Not really</item>
+      <item>FCKD - umad?</item>
   </string-array>
 
   <string-array name="compression_modes_values" translatable="false">
+    <item>25</item>
     <item>50</item>
     <item>100</item>
+    <item>150</item>
+    <item>200</item>
+    <item>250</item>
     <item>300</item>
   </string-array>
 
   <string-array name="bassboost_modes">
-    <item>Slight</item>
-    <item>Moderate</item>
-    <item>Extreme</item>
+    <item>Level 0</item>
+    <item>Level 1</item>
+    <item>Level 2</item>
+    <item>Level 3</item>
+    <item>Level 4</item>
+    <item>Level 5</item>
+    <item>BassBanger</item>
   </string-array>
 
   <string-array name="bassboost_modes_values" translatable="false">
     <item>0</item>
+    <item>250</item>
     <item>500</item>
+    <item>750</item>
     <item>1000</item>
+    <item>1250</item>
+    <item>1300</item>
   </string-array>
 
   <string-array name="wm8994_bassboost_modes">
